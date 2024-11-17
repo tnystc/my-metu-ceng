@@ -1,2 +1,2 @@
 # my-metu-ceng
-CENG homeworks I have done.
+CENG homeworks I have done at METU.
